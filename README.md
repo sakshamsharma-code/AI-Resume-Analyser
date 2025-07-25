@@ -50,7 +50,7 @@ This is a powerful AI-based Resume Analyzer built using **Google Gemini**, desig
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/
+git clone https://github.com/sakshamsharma-code/AI-Resume-Analyser.git
 ```
 ### 2. Install Dependencies
 ```bash
